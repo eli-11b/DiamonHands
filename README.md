@@ -12,7 +12,7 @@ streamlit run diamond_hands.py
 5. Have fun! Make changes. 
 
 <hr>
-Stock App with Streamlit
+## Quick Stock App with Streamlit
 <img src="images/Intro.png">
 <img src="images/Open-High.png">
 <img src="images/Low-Close.png">

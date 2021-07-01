@@ -1,4 +1,4 @@
-# DiamonHands
+# DiamondHands
 
 ### Instructions:
 1. Download 

@@ -18,5 +18,7 @@ streamlit run diamond_hands.py
 <img src="images/Open-High.png">
 <img src="images/Low-Close.png">
 <img src="images/Volume-Dividends.png">
+
+## Upclose sidebar and DatePicker
 <img src="images/sidebar.png">
 <img src="images/Date-Picker.png">

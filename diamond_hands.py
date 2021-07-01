@@ -9,7 +9,7 @@ st.write("""
 Enter your information in the sidebar to the left. The rest we will do!
 """)
 
-#To the moon image
+#To the moon image in my local folder
 st.image("/Users/Eli/Downloads/Moonshot.png")
 
 #Today's date

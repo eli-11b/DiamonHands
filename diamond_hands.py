@@ -1,7 +1,6 @@
 import pandas as pd
 import streamlit as st
 from datetime import date
-from datetime import datetime
 import yfinance as yf
 
 st.write("""
